@@ -22,7 +22,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build Hugo Site
-        run: hugo --minify -d website_github_public
+        run: hugo --minify -s website -d ../website_github_public
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

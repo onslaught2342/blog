@@ -26,6 +26,7 @@ params:
   author: "Onslaught2342"
   DateFormat: "January 2, 2006"
   defaultTheme: auto
+  fingerprinting: false
   disableThemeToggle: false
 
   ShowReadingTime: true

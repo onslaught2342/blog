@@ -13,6 +13,7 @@ csp:
   disableIntegrity: true
 
 
+
 minify:
   disableXML: true
   minifyOutput: true

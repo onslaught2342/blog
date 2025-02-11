@@ -1,6 +1,7 @@
-baseURL: "onslaught2342.github.io/blog"
+baseURL: "https://onslaught2342.github.io/blog/"
 title: "Onslaught2342's Blog"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: "PaperMod"
 
 enableRobotsTXT: true

@@ -9,6 +9,10 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+csp:
+  disableIntegrity: true
+
+
 minify:
   disableXML: true
   minifyOutput: true

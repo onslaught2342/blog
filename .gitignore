@@ -2,3 +2,6 @@
 attachments
 .obsidian
 __pycache__
+python_modules
+main.py
+test.py

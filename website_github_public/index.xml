@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Onslaught2342&#39;s Blog</title>
+    <link>onslaught2342.github.io/blog/</link>
+    <description>Recent content on Onslaught2342&#39;s Blog</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <atom:link href="onslaught2342.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>onslaught2342.github.io/blog/posts/09-02-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>onslaught2342.github.io/blog/posts/09-02-2025/</guid>
+      <description>&lt;h1 id=&#34;automated-blogging-setup&#34;&gt;Automated Blogging Setup&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m setting up a semi-automated blogging system to publish content efficiently. Currently, I&amp;rsquo;m deploying it and ensuring it stays up to date without lagging behind.&lt;/p&gt;
+&lt;h2 id=&#34;feature-pack&#34;&gt;Feature Pack&lt;/h2&gt;
+&lt;h3 id=&#34;website-building&#34;&gt;Website Building&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; – Static site generator for fast and flexible blogs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Obsidian&lt;/strong&gt; – Used for writing and managing blog drafts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hosting-options&#34;&gt;Hosting Options&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cloudflare&lt;/strong&gt; – Performance and security enhancement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;InfinityFree&lt;/strong&gt; – Free hosting option.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt; – Reliable and easy static site hosting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;next-steps&#34;&gt;Next Steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensure automatic updates to keep content fresh.&lt;/li&gt;
+&lt;li&gt;Add more features to improve usability and functionality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more updates! 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>onslaught2342.github.io/blog/posts/11-02-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>onslaught2342.github.io/blog/posts/11-02-2025/</guid>
+      <description>&lt;p&gt;did nothing in the past days except watching
+&lt;a href=&#34;https://www.youtube.com/watch?v=KiP6GDlUPas&#34;&gt;https://www.youtube.com/watch?v=KiP6GDlUPas&lt;/a&gt;
+and
+!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;onslaught2342.github.io/blog/images/%7BFAA5CE99-D669-4557-BA6A-921529271784%7D.png&#34;&gt;
+new thing none idea maybe something but rn nothing
+okay see ya would not want to be ya&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL: "onslaught2342.github.io/blog"
+baseURL: "http://localhost:8000"
 title: "Onslaught2342's Blog"
 paginate: 5
 theme: "PaperMod"

@@ -27,6 +27,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   fingerprinting: false
+  disableIntegrity: true
   disableThemeToggle: false
 
   ShowReadingTime: true

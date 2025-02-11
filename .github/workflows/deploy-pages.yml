@@ -1,4 +1,4 @@
-name: Deploy GitHub Pages
+name: Deploy Hugo to GitHub Pages
 on:
   push:
     branches:
@@ -15,7 +15,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build Hugo Site
+        run: hugo --minify -d website_github_public
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

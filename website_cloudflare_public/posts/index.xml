@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Onslaught2342&#39;s Blog</title>
+    <link>https://blog-onslaught.pages.dev/posts/</link>
+    <description>Recent content in Posts on Onslaught2342&#39;s Blog</description>
+    <generator>Hugo -- 0.144.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Feb 2025 18:15:25 +0000</lastBuildDate>
+    <atom:link href="https://blog-onslaught.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Post 23-02-2025</title>
+      <link>https://blog-onslaught.pages.dev/posts/23-02-2025/</link>
+      <pubDate>Sun, 23 Feb 2025 18:15:25 +0000</pubDate>
+      <guid>https://blog-onslaught.pages.dev/posts/23-02-2025/</guid>
+      <description>&lt;h1 id=&#34;technical-issues-and-frustrations&#34;&gt;Technical Issues and Frustrations&lt;/h1&gt;
+&lt;p&gt;I don&amp;rsquo;t know why, but I&amp;rsquo;ve been experiencing a lot of issues with &lt;strong&gt;Obsidian&lt;/strong&gt; and &lt;strong&gt;Hugo&lt;/strong&gt;. Fixing these issues in Obsidian took a lot of time, and on top of that, I ended up &lt;strong&gt;destroying my GitHub commit history&lt;/strong&gt; due to a submodule issue.&lt;/p&gt;
+&lt;p&gt;Additionally, GitHub Pages was removing the PNG assets, so I had to destroy that setup. Now, I’m using &lt;strong&gt;Cloudflare Pages&lt;/strong&gt;, but the assets are still present—just not working. I plan to deploy the site to &lt;strong&gt;Vercel&lt;/strong&gt; as well, in hopes that it will work better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog Post 11-02-2025</title>
+      <link>https://blog-onslaught.pages.dev/posts/11-02-2025/</link>
+      <pubDate>Tue, 11 Feb 2025 08:29:00 +0000</pubDate>
+      <guid>https://blog-onslaught.pages.dev/posts/11-02-2025/</guid>
+      <description>&lt;p&gt;did nothing in the past days except watching
+&lt;a href=&#34;https://www.youtube.com/watch?v=KiP6GDlUPas&#34;&gt;https://www.youtube.com/watch?v=KiP6GDlUPas&lt;/a&gt;
+and
+&lt;img alt=&#34;faa5ce99-d669-4557-ba6a-921529271784.png&#34; loading=&#34;lazy&#34; src=&#34;https://blog-onslaught.pages.dev/images/faa5ce99-d669-4557-ba6a-921529271784.png&#34;&gt;
+new thing none idea maybe something but rn nothing
+okay see ya would not want to be ya&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;c2eebc8d-ba64-4bcf-86a2-adc541ce00b4.png&#34; loading=&#34;lazy&#34; src=&#34;https://blog-onslaught.pages.dev/images/c2eebc8d-ba64-4bcf-86a2-adc541ce00b4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;really so many failed whyyyyyy it is a pain to fix but i will like fixing the deploy to github pages mainly i just copied from the cipher craft repo
+&lt;img alt=&#34;988beea7-35b8-47db-bb07-2b001790697b.png&#34; loading=&#34;lazy&#34; src=&#34;https://blog-onslaught.pages.dev/images/988beea7-35b8-47db-bb07-2b001790697b.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog Post 09-02-2025</title>
+      <link>https://blog-onslaught.pages.dev/posts/09-02-2025/</link>
+      <pubDate>Sun, 09 Feb 2025 11:37:00 +0000</pubDate>
+      <guid>https://blog-onslaught.pages.dev/posts/09-02-2025/</guid>
+      <description>My first Day blogging</description>
+    </item>
+  </channel>
+</rss>

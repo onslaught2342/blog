@@ -1,0 +1,10 @@
+.env
+attachments
+.obsidian
+__pycache__
+python_modules
+main.py
+test.py
+fix_sri.py
+public
+temp.md

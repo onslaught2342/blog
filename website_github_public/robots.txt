@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://onslaught2342.github.io/blog/sitemap.xml

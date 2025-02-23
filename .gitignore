@@ -4,6 +4,7 @@ attachments
 __pycache__
 python_modules
 main.py
+main.exe
 test.py
 fix_sri.py
 public

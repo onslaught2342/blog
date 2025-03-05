@@ -4,50 +4,40 @@
     <title>Posts on Onslaught2342&#39;s Blog</title>
     <link>https://onslaught2342.github.io/blog/posts/</link>
     <description>Recent content in Posts on Onslaught2342&#39;s Blog</description>
-    <generator>Hugo -- 0.144.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 20:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 18:15:25 +0000</lastBuildDate>
     <atom:link href="https://onslaught2342.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Post 23-02-2025</title>
+      <link>https://onslaught2342.github.io/blog/posts/23-02-2025/</link>
+      <pubDate>Sun, 23 Feb 2025 18:15:25 +0000</pubDate>
+      <guid>https://onslaught2342.github.io/blog/posts/23-02-2025/</guid>
+      <description>&lt;h1 id=&#34;technical-issues-and-frustrations&#34;&gt;Technical Issues and Frustrations&lt;/h1&gt;
+&lt;p&gt;I don&amp;rsquo;t know why, but I&amp;rsquo;ve been experiencing a lot of issues with &lt;strong&gt;Obsidian&lt;/strong&gt; and &lt;strong&gt;Hugo&lt;/strong&gt;. Fixing these issues in Obsidian took a lot of time, and on top of that, I ended up &lt;strong&gt;destroying my GitHub commit history&lt;/strong&gt; due to a submodule issue.&lt;/p&gt;
+&lt;p&gt;Additionally, GitHub Pages was removing the PNG assets, so I had to destroy that setup. Now, I’m using &lt;strong&gt;Cloudflare Pages&lt;/strong&gt;, but the assets are still present—just not working. I plan to deploy the site to &lt;strong&gt;Vercel&lt;/strong&gt; as well, in hopes that it will work better.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Blog Post 11-02-2025</title>
       <link>https://onslaught2342.github.io/blog/posts/11-02-2025/</link>
-      <pubDate>Tue, 11 Feb 2025 20:53:00 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2025 08:29:00 +0000</pubDate>
       <guid>https://onslaught2342.github.io/blog/posts/11-02-2025/</guid>
       <description>&lt;p&gt;did nothing in the past days except watching
 &lt;a href=&#34;https://www.youtube.com/watch?v=KiP6GDlUPas&#34;&gt;https://www.youtube.com/watch?v=KiP6GDlUPas&lt;/a&gt;
 and
-!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://onslaught2342.github.io/blog/images/FAA5CE99-D669-4557-BA6A-921529271784.png&#34;&gt;
+&lt;img alt=&#34;FAA5CE99-D669-4557-BA6A-921529271784.png&#34; loading=&#34;lazy&#34; src=&#34;https://onslaught2342.github.io/blog/images/FAA5CE99-D669-4557-BA6A-921529271784.png&#34;&gt;
 new thing none idea maybe something but rn nothing
 okay see ya would not want to be ya&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://onslaught2342.github.io/blog/images/C2EEBC8D-BA64-4BCF-86A2-ADC541CE00B4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;C2EEBC8D-BA64-4BCF-86A2-ADC541CE00B4.png&#34; loading=&#34;lazy&#34; src=&#34;https://onslaught2342.github.io/blog/images/C2EEBC8D-BA64-4BCF-86A2-ADC541CE00B4.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;really so many failed whyyyyyy it is a pain to fix but i will like fixing the deploy to github pages mainly i just copied from the cipher craft repo
-!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://onslaught2342.github.io/blog/images/988BEEA7-35B8-47DB-BB07-2B001790697B.png&#34;&gt;&lt;/p&gt;</description>
+&lt;img alt=&#34;988BEEA7-35B8-47DB-BB07-2B001790697B.png&#34; loading=&#34;lazy&#34; src=&#34;https://onslaught2342.github.io/blog/images/988BEEA7-35B8-47DB-BB07-2B001790697B.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog Post 09-02-2025</title>
       <link>https://onslaught2342.github.io/blog/posts/09-02-2025/</link>
-      <pubDate>Sun, 09 Feb 2025 08:34:00 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2025 11:37:00 +0000</pubDate>
       <guid>https://onslaught2342.github.io/blog/posts/09-02-2025/</guid>
-      <description>&lt;h1 id=&#34;automated-blogging-setup&#34;&gt;Automated Blogging Setup&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m setting up a semi-automated blogging system to publish content efficiently. Currently, I&amp;rsquo;m deploying it and ensuring it stays up to date without lagging behind.&lt;/p&gt;
-&lt;h2 id=&#34;feature-pack&#34;&gt;Feature Pack&lt;/h2&gt;
-&lt;h3 id=&#34;website-building&#34;&gt;Website Building&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; – Static site generator for fast and flexible blogs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Obsidian&lt;/strong&gt; – Used for writing and managing blog drafts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;hosting-options&#34;&gt;Hosting Options&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cloudflare&lt;/strong&gt; – Performance and security enhancement.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;InfinityFree&lt;/strong&gt; – Free hosting option.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt; – Reliable and easy static site hosting.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;next-steps&#34;&gt;Next Steps&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ensure automatic updates to keep content fresh.&lt;/li&gt;
-&lt;li&gt;Add more features to improve usability and functionality.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Stay tuned for more updates! 🚀&lt;/p&gt;</description>
+      <description>My first Day blogging</description>
     </item>
   </channel>
 </rss>

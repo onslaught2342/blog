@@ -16,7 +16,7 @@ The site is already deployed.
 - **Cloudflare** https://blog-onslaught.pages.dev/
 - **Vercel** https://blog-onslaught.vercel.app/ 
 - **Netlify** https://blog-onslaught.netlify.app/ 
-- **GitHub** https://https://onslaught2342.github.io/blog/ (not recommended)
+- **GitHub** https://onslaught2342.github.io/blog/ (not recommended)
 
 
 ## Author

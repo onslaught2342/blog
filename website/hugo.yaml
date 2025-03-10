@@ -1,13 +1,17 @@
 baseURL: "https://blog-onslaught.netlify.app"
 title: "Onslaught2342's Blog"
+
 pagination:
   pagerSize: 5
+
 theme: "PaperMod"
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+relativeURLs: true
+
 
 csp:
   disableIntegrity: true
@@ -24,9 +28,16 @@ minify:
 
 
 params:
+  homeInfoParams:
+    Title: 👋 Welcome!
+    Content: This is my space where I share insights on tech, cybersecurity, coding, and my journey in the Digital & Technological world.
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/onslaught2342/blog"
+
   env: production
   title: "Onslaught2342's Blog"
-  description: "My blog"
+  description: "My Tech blog"
   keywords: ["Blog", "Tech", "Programming"]
   author: "Onslaught2342"
   DateFormat: "January 2, 2006"
@@ -49,16 +60,26 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: true
+  TocOpen: true
   tocopen: false
   assets:
     disableFingerprinting: true
     favicon: "/img/logo.ico"
-    #apple_touch_icon: "/img/apple-touch-icon.png"
+
+  ShowRssButtonInSectionTermList: true
+  displayFullLangName: true
 
   cover:
-    hidden: true
-    hiddenInList: true
-    hiddenInSingle: true
+    linkFullImages: true
+    image: "/img/logo.ico"
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
+
+  label:
+    text: "Onslaught2342's  Blog"
+    icon: "/img/logo.ico"
+    iconHeight: 30
 
   # editPost:
   #   URL: "https://github.com/onslaught2342/blog/edit/main/content"
@@ -75,16 +96,16 @@ params:
   #   limit: 10
   #   keys: ["title", "permalink", "summary", "content"]
 
-# menu:
-#   main:
-#     - identifier: categories
-#       name: Categories
-#       url: /categories/
-#       weight: 10
-#     - identifier: tags
-#       name: Tags
-#       url: /tags/
-#       weight: 20
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
 
 pygmentsUseClasses: true
 
@@ -93,3 +114,13 @@ markup:
     noClasses: false
 
 fingerprinting: false
+
+images:
+  - "/img/logo.ico"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+

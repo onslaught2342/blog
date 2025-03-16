@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog-onslaught.vercel.app/posts/23-02-2025/</loc>
-    <lastmod>2025-02-23T18:15:25+00:00</lastmod>
+    <loc>https://blog-onslaught.vercel.app/posts/16-03-2025/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
+  </url><url>
+    <loc>https://blog-onslaught.vercel.app/tags/cybersecurity/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
+  </url><url>
+    <loc>https://blog-onslaught.vercel.app/tags/encryption/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
+  </url><url>
+    <loc>https://blog-onslaught.vercel.app/tags/keybase/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
   </url><url>
     <loc>https://blog-onslaught.vercel.app/</loc>
-    <lastmod>2025-02-23T18:15:25+00:00</lastmod>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
+  </url><url>
+    <loc>https://blog-onslaught.vercel.app/tags/pgp/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
   </url><url>
     <loc>https://blog-onslaught.vercel.app/posts/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
+  </url><url>
+    <loc>https://blog-onslaught.vercel.app/tags/s/mime/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
+  </url><url>
+    <loc>https://blog-onslaught.vercel.app/tags/</loc>
+    <lastmod>2025-03-16T09:02:16+00:00</lastmod>
+  </url><url>
+    <loc>https://blog-onslaught.vercel.app/posts/23-02-2025/</loc>
     <lastmod>2025-02-23T18:15:25+00:00</lastmod>
   </url><url>
     <loc>https://blog-onslaught.vercel.app/posts/11-02-2025/</loc>
@@ -18,7 +39,5 @@
     <lastmod>2025-02-09T11:37:00+00:00</lastmod>
   </url><url>
     <loc>https://blog-onslaught.vercel.app/categories/</loc>
-  </url><url>
-    <loc>https://blog-onslaught.vercel.app/tags/</loc>
   </url>
 </urlset>

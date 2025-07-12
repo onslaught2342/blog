@@ -15,5 +15,15 @@
       <guid>https://blog-onslaught.vercel.app/posts/2025-07-12/</guid>
       <description>A painful but powerful lesson in backup, structure, and persistence.</description>
     </item>
+    <item>
+      <title>Blog Post 16-03-2025</title>
+      <link>https://blog-onslaught.vercel.app/posts/2025-03-16/</link>
+      <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
+      <guid>https://blog-onslaught.vercel.app/posts/2025-03-16/</guid>
+      <description>&lt;h1 id=&#34;my-experience-with-issuing-an-smime-certificate-publishing-gpg-keys-and-setting-up-keybase&#34;&gt;My Experience with Issuing an S/MIME Certificate, Publishing GPG Keys, and Setting Up Keybase&lt;/h1&gt;
+&lt;p&gt;Securing my email communication has been an important step in my tech journey. In this post, I’ll share my experience obtaining an S/MIME certificate from Actalis, publishing my GPG key to a keyserver, and setting up a Keybase account for cryptographic identity verification.&lt;/p&gt;
+&lt;h2 id=&#34;issuing-an-smime-certificate-from-actalis&#34;&gt;Issuing an S/MIME Certificate from Actalis&lt;/h2&gt;
+&lt;p&gt;S/MIME (Secure/Multipurpose Internet Mail Extensions) allows me to encrypt and digitally sign my emails. I decided to get a free personal S/MIME certificate from Actalis to improve my email security.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

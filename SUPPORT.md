@@ -11,11 +11,11 @@ from python_modules.frontmatter import process_markdown_files
 
 def main():
     posts_dir = "website/content/posts"
-    attachments_dir = "attachments"
+    attachments_dir = "blog_files\attachments"
     static_images_dir = "website/static/images"
     source_path = "blog_files"
     file_path = "website/hugo.yaml"
-    
+
     try:
         copy(posts_dir, attachments_dir, static_images_dir, source_path)
     except Exception as e:
@@ -32,12 +32,14 @@ def main():
     build_vercel()
     update_base_url(file_path, "https://blog-onslaught.netlify.app")
     build_netlify()
-    
+
     commit()
 if __name__ == "__main__":
     main()
 ```
+
 # /python_modules/build.py
+
 ```python
 import os
 import re
@@ -69,7 +71,7 @@ def build_cloudflare():
         shutil.rmtree(r'website_cloudflare_public')
     except Exception as e:
         print("directory doesnot exist creating new one")
-    
+
     os.system(" hugo -s website -d ../website_cloudflare_public -F")
 
 # def build_infinity_free():
@@ -83,8 +85,10 @@ def update_base_url(file_path, new_url):
         file.write(updated_content)
 
 ```
+
 # /python_modules/frontmatter.py
-``` python
+
+```python
 import os
 import datetime
 import random
@@ -102,19 +106,19 @@ def generate_front_matter(file_name):
 
         day, month, year_ext = parts
         year = year_ext.split('.')[0]  # Remove ".md" extension
-        
+
         post_date = datetime.date(int(year), int(month), int(day))
         current_date = datetime.date.today()
-        
+
         if post_date == current_date:
             post_time = datetime.datetime.now().time()  # Use current time
         else:
             random_hour = random.randint(8, 22)  # Random hour between 8 AM and 10 PM
             random_minute = random.randint(0, 59)  # Random minute
             post_time = datetime.time(random_hour, random_minute, 0)
-        
+
         post_datetime = datetime.datetime.combine(post_date, post_time).isoformat() + "Z"
-        
+
         # Generate front matter
         front_matter = f"""---
 title: "Blog Post {day}-{month}-{year}"
@@ -135,12 +139,12 @@ def process_markdown_files(post_dir):
 
             with open(file_path, "r+", encoding="utf-8") as f:
                 content = f.read()
-                
+
                 # Check if front matter already exists
                 if content.startswith("---"):
                     print(f"Skipping {file_name}: Front matter already exists.")
                     continue
-                
+
                 front_matter = generate_front_matter(file_name)
                 if front_matter:
                     # Add front matter to the file
@@ -153,8 +157,10 @@ if __name__ == "__main__":
     process_markdown_files(posts_dir)
 
 ```
+
 # /python_modules/github.py
-``` python
+
+```python
 import subprocess
 
 def commit():
@@ -166,10 +172,10 @@ def commit():
         output = "work done"
 
         print("Changes committed and pushed successfully.")
-    
+
     except subprocess.CalledProcessError as e:
         print(f"Error: {e}. Git command failed.")
-    
+
     except Exception as e:
         print(f"Unexpected error: {e}")
         return output
@@ -177,8 +183,10 @@ def commit():
 if __name__ == "__main__":
     commit()
 ```
+
 # /python_modules/images.py
-``` python
+
+```python
 import os
 import re
 import shutil
@@ -270,19 +278,21 @@ if __name__ == "__main__":
         print(f"Fatal error: {e}")
 
 ```
+
 # /python_modules/path_fix.py
-``` python
+
+```python
 import os
 
 def replace_text_in_file(file_path, search_text, replace_text):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
-        
+
         # Ensure we don't replace if already correctly formatted
         updated_content = content.replace(search_text, replace_text)
         updated_content = updated_content.replace("/blog/blog/images", "/blog/images")
-        
+
         if content != updated_content:  # Only write if there are changes
             with open(file_path, 'w', encoding='utf-8') as file:
                 file.write(updated_content)

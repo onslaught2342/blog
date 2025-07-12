@@ -4,15 +4,15 @@
     <title>S/MIME on Onslaught2342&#39;s Blog</title>
     <link>https://blog-onslaught.vercel.app/tags/s/mime/</link>
     <description>Recent content in S/MIME on Onslaught2342&#39;s Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 16 Mar 2025 09:02:16 +0000</lastBuildDate>
     <atom:link href="https://blog-onslaught.vercel.app/tags/s/mime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Post 16-03-2025</title>
-      <link>https://blog-onslaught.vercel.app/posts/16-03-2025/</link>
+      <link>https://blog-onslaught.vercel.app/posts/2025-03-16/</link>
       <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
-      <guid>https://blog-onslaught.vercel.app/posts/16-03-2025/</guid>
+      <guid>https://blog-onslaught.vercel.app/posts/2025-03-16/</guid>
       <description>&lt;h1 id=&#34;my-experience-with-issuing-an-smime-certificate-publishing-pgp-keys-and-setting-up-keybase&#34;&gt;My Experience with Issuing an S/MIME Certificate, Publishing PGP Keys, and Setting Up Keybase&lt;/h1&gt;
 &lt;p&gt;Securing my email communication has been an important step in my tech journey. In this post, I’ll share my experience obtaining an S/MIME certificate from Actalis, publishing my PGP key to a keyserver, and setting up a Keybase account for cryptographic identity verification.&lt;/p&gt;
 &lt;h2 id=&#34;issuing-an-smime-certificate-from-actalis&#34;&gt;Issuing an S/MIME Certificate from Actalis&lt;/h2&gt;

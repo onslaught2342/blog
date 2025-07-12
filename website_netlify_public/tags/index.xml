@@ -4,42 +4,77 @@
     <title>Tags on Onslaught2342&#39;s Blog</title>
     <link>https://blog-onslaught.netlify.app/tags/</link>
     <description>Recent content in Tags on Onslaught2342&#39;s Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Mar 2025 09:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 18:00:00 +0500</lastBuildDate>
     <atom:link href="https://blog-onslaught.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog</title>
+      <link>https://blog-onslaught.netlify.app/tags/devlog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog-onslaught.netlify.app/tags/devlog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://blog-onslaught.netlify.app/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog-onslaught.netlify.app/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPG</title>
+      <link>https://blog-onslaught.netlify.app/tags/gpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog-onslaught.netlify.app/tags/gpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://blog-onslaught.netlify.app/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog-onslaught.netlify.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rebuild</title>
+      <link>https://blog-onslaught.netlify.app/tags/rebuild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog-onslaught.netlify.app/tags/rebuild/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cybersecurity</title>
       <link>https://blog-onslaught.netlify.app/tags/cybersecurity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
       <guid>https://blog-onslaught.netlify.app/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Encryption</title>
       <link>https://blog-onslaught.netlify.app/tags/encryption/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
       <guid>https://blog-onslaught.netlify.app/tags/encryption/</guid>
       <description></description>
     </item>
     <item>
       <title>Keybase</title>
       <link>https://blog-onslaught.netlify.app/tags/keybase/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
       <guid>https://blog-onslaught.netlify.app/tags/keybase/</guid>
       <description></description>
     </item>
     <item>
       <title>PGP</title>
       <link>https://blog-onslaught.netlify.app/tags/pgp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
       <guid>https://blog-onslaught.netlify.app/tags/pgp/</guid>
       <description></description>
     </item>
     <item>
       <title>S/MIME</title>
       <link>https://blog-onslaught.netlify.app/tags/s/mime/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
       <guid>https://blog-onslaught.netlify.app/tags/s/mime/</guid>
       <description></description>
     </item>

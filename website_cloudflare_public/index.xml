@@ -4,15 +4,22 @@
     <title>Onslaught2342&#39;s Blog</title>
     <link>https://blog-onslaught.pages.dev/</link>
     <description>Recent content on Onslaught2342&#39;s Blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Mar 2025 09:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 18:00:00 +0500</lastBuildDate>
     <atom:link href="https://blog-onslaught.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Blog Post 12-07-2025</title>
+      <link>https://blog-onslaught.pages.dev/posts/2025-07-12/</link>
+      <pubDate>Sat, 12 Jul 2025 18:00:00 +0500</pubDate>
+      <guid>https://blog-onslaught.pages.dev/posts/2025-07-12/</guid>
+      <description>A painful but powerful lesson in backup, structure, and persistence.</description>
+    </item>
+    <item>
       <title>Blog Post 16-03-2025</title>
-      <link>https://blog-onslaught.pages.dev/posts/16-03-2025/</link>
+      <link>https://blog-onslaught.pages.dev/posts/2025-03-16/</link>
       <pubDate>Sun, 16 Mar 2025 09:02:16 +0000</pubDate>
-      <guid>https://blog-onslaught.pages.dev/posts/16-03-2025/</guid>
+      <guid>https://blog-onslaught.pages.dev/posts/2025-03-16/</guid>
       <description>&lt;h1 id=&#34;my-experience-with-issuing-an-smime-certificate-publishing-pgp-keys-and-setting-up-keybase&#34;&gt;My Experience with Issuing an S/MIME Certificate, Publishing PGP Keys, and Setting Up Keybase&lt;/h1&gt;
 &lt;p&gt;Securing my email communication has been an important step in my tech journey. In this post, I’ll share my experience obtaining an S/MIME certificate from Actalis, publishing my PGP key to a keyserver, and setting up a Keybase account for cryptographic identity verification.&lt;/p&gt;
 &lt;h2 id=&#34;issuing-an-smime-certificate-from-actalis&#34;&gt;Issuing an S/MIME Certificate from Actalis&lt;/h2&gt;
@@ -20,18 +27,18 @@
     </item>
     <item>
       <title>Blog Post 23-02-2025</title>
-      <link>https://blog-onslaught.pages.dev/posts/23-02-2025/</link>
+      <link>https://blog-onslaught.pages.dev/posts/2025-02-23/</link>
       <pubDate>Sun, 23 Feb 2025 18:15:25 +0000</pubDate>
-      <guid>https://blog-onslaught.pages.dev/posts/23-02-2025/</guid>
+      <guid>https://blog-onslaught.pages.dev/posts/2025-02-23/</guid>
       <description>&lt;h1 id=&#34;technical-issues-and-frustrations&#34;&gt;Technical Issues and Frustrations&lt;/h1&gt;
 &lt;p&gt;I don&amp;rsquo;t know why, but I&amp;rsquo;ve been experiencing a lot of issues with &lt;strong&gt;Obsidian&lt;/strong&gt; and &lt;strong&gt;Hugo&lt;/strong&gt;. Fixing these issues in Obsidian took a lot of time, and on top of that, I ended up &lt;strong&gt;destroying my GitHub commit history&lt;/strong&gt; due to a submodule issue.&lt;/p&gt;
 &lt;p&gt;Additionally, GitHub Pages was removing the PNG assets, so I had to destroy that setup. Now, I’m using &lt;strong&gt;Cloudflare Pages&lt;/strong&gt;, but the assets are still present—just not working. I plan to deploy the site to &lt;strong&gt;Vercel&lt;/strong&gt; as well, in hopes that it will work better.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog Post 11-02-2025</title>
-      <link>https://blog-onslaught.pages.dev/posts/11-02-2025/</link>
+      <link>https://blog-onslaught.pages.dev/posts/2025-02-11/</link>
       <pubDate>Tue, 11 Feb 2025 08:29:00 +0000</pubDate>
-      <guid>https://blog-onslaught.pages.dev/posts/11-02-2025/</guid>
+      <guid>https://blog-onslaught.pages.dev/posts/2025-02-11/</guid>
       <description>&lt;p&gt;did nothing in the past days except watching
 &lt;a href=&#34;https://www.youtube.com/watch?v=KiP6GDlUPas&#34;&gt;https://www.youtube.com/watch?v=KiP6GDlUPas&lt;/a&gt;
 and
@@ -44,9 +51,9 @@ okay see ya would not want to be ya&lt;/p&gt;
     </item>
     <item>
       <title>Blog Post 09-02-2025</title>
-      <link>https://blog-onslaught.pages.dev/posts/09-02-2025/</link>
+      <link>https://blog-onslaught.pages.dev/posts/2025-02-09/</link>
       <pubDate>Sun, 09 Feb 2025 11:37:00 +0000</pubDate>
-      <guid>https://blog-onslaught.pages.dev/posts/09-02-2025/</guid>
+      <guid>https://blog-onslaught.pages.dev/posts/2025-02-09/</guid>
       <description>My first Day blogging</description>
     </item>
   </channel>

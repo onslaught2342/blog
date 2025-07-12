@@ -1,4 +1,4 @@
-baseURL: "https://blog-onslaught.netlify.app"
+baseURL: "http://127.0.0.1:5500/"
 title: "Onslaught2342's Blog"
 
 pagination:
@@ -12,11 +12,8 @@ buildFuture: false
 buildExpired: false
 relativeURLs: true
 
-
 csp:
   disableIntegrity: true
-
-
 
 minify:
   disableXML: true
@@ -25,7 +22,6 @@ minify:
     css:
       keepCSS2: true
       precision: 0
-
 
 params:
   homeInfoParams:
@@ -123,4 +119,3 @@ outputs:
     - HTML
     - RSS
     - JSON
-

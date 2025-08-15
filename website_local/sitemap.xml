@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://127.0.0.1:5500/posts/2025-08-15/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:5500/tags/coding/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:5500/tags/life/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:5500/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:5500/posts/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:5500/tags/progress/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:5500/tags/school/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:5500/tags/</loc>
+    <lastmod>2025-08-15T18:37:00+00:00</lastmod>
+  </url><url>
     <loc>http://127.0.0.1:5500/posts/2025-07-12/</loc>
     <lastmod>2025-07-12T18:00:00+05:00</lastmod>
   </url><url>
@@ -17,16 +41,7 @@
     <loc>http://127.0.0.1:5500/tags/hugo/</loc>
     <lastmod>2025-07-12T18:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:5500/</loc>
-    <lastmod>2025-07-12T18:00:00+05:00</lastmod>
-  </url><url>
-    <loc>http://127.0.0.1:5500/posts/</loc>
-    <lastmod>2025-07-12T18:00:00+05:00</lastmod>
-  </url><url>
     <loc>http://127.0.0.1:5500/tags/rebuild/</loc>
-    <lastmod>2025-07-12T18:00:00+05:00</lastmod>
-  </url><url>
-    <loc>http://127.0.0.1:5500/tags/</loc>
     <lastmod>2025-07-12T18:00:00+05:00</lastmod>
   </url><url>
     <loc>http://127.0.0.1:5500/posts/2025-03-16/</loc>
